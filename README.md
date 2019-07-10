@@ -17,9 +17,9 @@ we were to use the things we learned during the week .
 
 ## Setup/Installation Requirements
 
-.Clone this repository
-.Open a HTML file
-.Open web browser of choice
+*Clone this repository
+*Open a HTML file
+*Open web browser of choice
 
 ## License
 
