@@ -8,3 +8,6 @@ var inp33=parseInt(inp3);
 if ((inp11 === inp22) && (inp11 === inp33) && (inp22 === inp33)) {
   alert("Equalateral");
   }
+  else if ((inp11 === inp22) ||(inp11 === inp33) || (inp22 === inp33)) {
+  alert("Isosceles");
+  }
