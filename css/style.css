@@ -18,3 +18,14 @@ h4{
 body{
   background-color: #FAF0E6;
 }
+
+.mk1{
+  background-color:#808080 ;
+  height:600px ;
+  width:400px ;
+  border:25px  ;
+  border-radius: 40px;
+  padding:25px ;
+  margin: 25px;
+  padding-right: 20px
+}
