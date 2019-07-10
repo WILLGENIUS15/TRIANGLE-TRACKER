@@ -5,3 +5,6 @@ var inp3 = document.getElementById("Triangle_Input3").value;
 var inp11=parseInt(inp1);
 var inp22=parseInt(inp2);
 var inp33=parseInt(inp3);
+if ((inp11 === inp22) && (inp11 === inp33) && (inp22 === inp33)) {
+  alert("Equalateral");
+  }
