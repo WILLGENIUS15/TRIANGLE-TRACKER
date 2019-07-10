@@ -21,7 +21,7 @@ body{
 
 .mk1{
   background-color:#808080 ;
-  height:600px ;
+  height:500px ;
   width:400px ;
   border:25px  ;
   border-radius: 40px;
@@ -43,7 +43,7 @@ input{
 .tex{
   border: 10px;
   border-radius: 20px;
-  height: 600px;
+  height: 500px;
   background-color: #808080;
   float: right;
   padding: 50px;
